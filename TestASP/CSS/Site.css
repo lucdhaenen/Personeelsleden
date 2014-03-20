@@ -1,0 +1,28 @@
+﻿body 
+{
+    margin: 0;
+    padding:0;
+    width:100%;
+}
+
+#wrapper 
+{
+    width:84%;
+    margin:0 auto;
+}
+
+#home 
+{
+    float:left;
+}
+
+#login 
+{
+    float:right;
+    display:inline;    
+}
+
+#inhoud 
+{
+    margin-top: 4em;
+}
